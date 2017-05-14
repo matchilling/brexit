@@ -25,6 +25,11 @@ $ ./bin/brexit
 * `version.`: show game version information
 * `quit.`: end the game and quit
 
+## Ideas for further development
+* Open source the project and call for collaboration on dev.to/ medium (e.g. a new chapter every month)
+* Two main path with a "remainder" and a "leaver" version
+* Some AI, e.g. having a Chaos Nigel, who appears randomly in the game and insults the player for example based on their system settings (on debian e.g. "Go apt-get a brain!")
+
 ## License
 This distribution is covered by the **MIT LICENSE**, for the full copyright and license information, please view the LICENSE file that was distributed with this source code.
 
