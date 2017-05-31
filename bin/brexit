@@ -3,7 +3,7 @@
 readonly SCRIPT_DIR=$(cd "$(dirname "$0")" && pwd)
 readonly PROJECT_DIR=$(cd "${SCRIPT_DIR}/.." && pwd)
 
-# Check if npm is installed
+# Check if prolog is installed
 command -v prolog --version >/dev/null 2>&1 || {
    echo >&2 "Please install a prolog implementation (e.g. http://www.swi-prolog.org/Download.html) before continuing."
    exit 1
